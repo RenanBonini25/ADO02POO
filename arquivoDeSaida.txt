@@ -1,0 +1,15 @@
+====================== LISTAGEM DE PRODUTOS ================================
+
+Tipo: Produto de Higiene
+Nome: pinho sol
+Peso: 5.44
+Quantidade: 5
+Vencimento: 2018-04-20
+======================================================
+Tipo: Alimento
+Nome: banana
+Peso: 2.33
+Quantidade: 10
+Vencimento: 2018-04-15
+Perecível: true
+======================================================
