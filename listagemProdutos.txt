@@ -1,0 +1,68 @@
+====================== LISTAGEM DE PRODUTOS ================================
+
+Tipo: Alimento
+Nome: Banana
+Peso: 2.46
+Quantidade: 10
+Vencimento: 2018-04-15
+Perecível: true
+======================================================
+Tipo: Produto de Higiene
+Nome: Creme Dental
+Peso: 1.89
+Quantidade: 12
+Vencimento: 2018-08-12
+======================================================
+Tipo: Alimento
+Nome: Queijo
+Peso: 3.22
+Quantidade: 20
+Vencimento: 2018-04-15
+Perecível: true
+======================================================
+Tipo: Alimento
+Nome: Saco de Arroz
+Peso: 5.0
+Quantidade: 1
+Vencimento: 2020-05-05
+Perecível: false
+======================================================
+Tipo: Produto de Higiene
+Nome: Sabonete
+Peso: 1.33
+Quantidade: 35
+Vencimento: 2019-08-30
+======================================================
+Tipo: Alimento
+Nome: Salada
+Peso: 0.51
+Quantidade: 15
+Vencimento: 2018-04-22
+Perecível: true
+======================================================
+Tipo: Produto de Higiene
+Nome: Shampoo
+Peso: 2.33
+Quantidade: 18
+Vencimento: 2019-02-10
+======================================================
+Tipo: Alimento
+Nome: Batata
+Peso: 2.12
+Quantidade: 30
+Vencimento: 2018-07-22
+Perecível: true
+======================================================
+Tipo: Alimento
+Nome: Feijao
+Peso: 3.18
+Quantidade: 25
+Vencimento: 2019-08-14
+Perecível: false
+======================================================
+Tipo: Produto de Higiene
+Nome: Condicionador
+Peso: 2.23
+Quantidade: 15
+Vencimento: 2018-10-12
+======================================================

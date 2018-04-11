@@ -3,7 +3,7 @@ package br.com.renan;
 import java.util.Date;
 
 public class Alimento extends Produto {
-    
+
     private boolean perecivel;
 
     public Alimento(String nome, double peso, int quantidade, Date vencimento, boolean perecivel) {
@@ -18,6 +18,5 @@ public class Alimento extends Produto {
     public void setPerecivel(boolean perecivel) {
         this.perecivel = perecivel;
     }
-    
-    
+
 }

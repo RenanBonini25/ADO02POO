@@ -1,0 +1,11 @@
+====================== VENCIMENTOS DE PRODUTOS ================================
+
+Tipo: Alimento
+Nome: maca
+Perecível: true
+** O produto irá vencer em 9 dias! **
+=======================================
+Tipo: Produto de Higiene
+Nome: pinho sol
+** O produto já está vencido! **
+=======================================

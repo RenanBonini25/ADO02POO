@@ -16,23 +16,7 @@ public abstract class Produto {
         this.vencimento = vencimento;
     }
 
-    public boolean verificarVcto(Date dataAtual) {
-        int difDias = (int) ((vencimento.getTime() - dataAtual.getTime())
-                / (1000 * 60 * 60 * 24));
-        if (difDias <= 7) {
-            if (difDias >= 1) {
-                System.out.printf("O produto irá vencer em %d dias!", difDias + 1);
-            } else {
-                System.out.println("O produto já está vencido!");
-            }
-            return true;
-        } else {
-            System.out.println("O produto não está perto de vencer!");
-            return false;
-        }
-    }
-
-       public String getNome() {
+    public String getNome() {
         return nome;
     }
 

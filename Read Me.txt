@@ -1,0 +1,7 @@
+O código consiste em um controle de estoque de produtos (Alimentos e Produtos de Higiene).
+No menu, o usuário pode escolher entre cadastrar, alterar quantidade, gerar listagem de estoque e verificar vencimentos.
+Na opção cadastrar, o usuário tem como escolher entre produtos do tipo Alimento e Produtos de Higiene.
+Na opção alterar quantidade, o usuário procura o produto pelo nome e realiza a alteração da quantidade.
+Na opção de verificar vencimentos, o usuário escolhe quantos dias quer fazer a verificação. Ex: (hoje é dia 10/04, ao escolher 10 dias,
+o sistema irá pegar vencimentos até dia 20/04. O sistema também irá apresentar produtos que já estão vencidos.
+As opções de gerar listagem e verificar vencimentos produzem uma saída em arquivos .txt (listagemProdutos e vencimentosProdutos).
